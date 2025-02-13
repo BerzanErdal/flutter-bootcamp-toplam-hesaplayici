@@ -1,4 +1,4 @@
-Toplam Hesaplayıcı - Flutter Uygulaması
+🌟Toplam Hesaplayıcı - Flutter Uygulaması
 
 Bu uygulama, kullanıcıların toplama işlemlerini kolayca yapabilmesi için geliştirilmiş basit bir Flutter uygulamasıdır. Kullanıcılar sayıları girer ve toplama işlemi anında yapılır. Uygulama, Flutter framework'ü kullanılarak geliştirilmiştir ve Android ve iOS platformlarında çalışabilir.
 
