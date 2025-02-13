@@ -11,6 +11,7 @@ Hızlı ve kullanıcı dostu arayüz.
 
 
 Kurulum
+
 Projeyi kendi bilgisayarınıza klonlamak için şu adımları takip edebilirsiniz:
 
 1-Bu projeyi GitHub'dan klonlayın:git clone https://github.com/BerzanErdal/Flutter-Bootcamp-Toplam-Hesaplayici.git
@@ -23,6 +24,7 @@ Projeyi kendi bilgisayarınıza klonlamak için şu adımları takip edebilirsin
 
 
 Kullanım
+
 Uygulama açıldığında, kullanıcılar + işareti ile sayıları birbirinden ayırarak girebilir.
 Örneğin: 7+3+5 şeklinde bir ifade girilebilir.
 Toplama işlemi, kullanıcı "=" butonuna tıkladığında yapılacaktır.
@@ -30,11 +32,13 @@ Sonuç anında ekranda gösterilir.
 
 
 Geliştirilme
+
 Bu uygulama temel bir toplama işlevine sahip olup, gelecekte daha fazla özellik eklenebilir.
 Örneğin:
 Çıkarma, çarpma, bölme gibi diğer işlemler eklenebilir.
 Kullanıcıya daha fazla işlem geçmişi sunulabilir.
 
 Uygulama Görseli:
+
 ![image](https://github.com/user-attachments/assets/2e949fee-6b46-4d8e-95e9-7b9698619185)
 
